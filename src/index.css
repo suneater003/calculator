@@ -11,12 +11,6 @@ header {
 }
 
 body {
-    background-image: url("public/quino-al-mBQIfKlvowM-unsplash.jpg");
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    width:100%;
-    background-color:pink;
 }
 p{
     text-decoration: none;
